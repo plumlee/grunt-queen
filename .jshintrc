@@ -1,0 +1,19 @@
+{
+	"boss": true,
+	"curly": true,
+	"eqeqeq": false,
+	"globals": {
+		"define": true,
+		"module": true,
+		"process": true,
+		"require": true
+	},
+	"immed": true,
+	"latedef": true,
+	"newcap": true,
+	"noarg": true,
+	"node": true,
+	"smarttabs": true,
+	"sub": true,
+	"undef": true
+}
